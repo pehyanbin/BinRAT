@@ -108,6 +108,5 @@ This README intentionally does not include deployment, persistence-enablement, s
 
 No license has been specified. Add a `LICENSE` file if you intend to grant others permission to use, modify, or redistribute this repository. Public visibility on GitHub does not automatically grant those permissions. <br><br><br>
 
-<video src="1122.mp4" width="850" controls>
-  Demo video
-</video>
+Demo Video : <br>
+<video controls src="https://github.com/pehyanbin/BinRAT/blob/main/1122.mp4" title="<src/workspaces/BinRAT/1122.mp4 "></video>
